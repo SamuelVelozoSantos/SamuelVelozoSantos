@@ -1,4 +1,5 @@
-## Hi there 👋
+## MEu nome e Samuel Velozo
+sou aluno do componente de Pensamento Computacional pela rede estadual de educação do Paraná
 
 <!--
 **SamuelVelozoSantos/SamuelVelozoSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
